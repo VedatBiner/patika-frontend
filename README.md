@@ -3,3 +3,4 @@
 Burada üç dosya var.  index.htm, about-us.html, contact.html<BR>
 odev1 dizininde ilk odev index.html olarak bulunuyor.<BR>
 odev2 dizininde ikinci odev index.html olarak bulunuyor.<BR>
+odev3 dizininde üçüncü ödev index.html olarak bulunuyor.
