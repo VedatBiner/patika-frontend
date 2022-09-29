@@ -5,8 +5,8 @@ Bu repo içeriğinde **[Patika.dev](https://www.patika.dev/)** FrontEnd eğitimi
 Ana Sayfa <BR>
 ![resim](../screen_shots/HTML-01.jpg) <BR>
 About Page <BR>
-![resim](..\screen_shots\HTML-02.jpg) <BR>
+![resim](../screen_shots/HTML-02.jpg) <BR>
 Contact Page <BR>
-![resim](..\screen_shots\HTML-03.jpg) <BR>
+![resim](../screen_shots/HTML-03.jpg) <BR>
 
 
