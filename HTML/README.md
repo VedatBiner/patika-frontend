@@ -8,5 +8,6 @@ About Page <BR>
 ![resim](../screen_shots/HTML-02.jpg) <BR>
 Contact Page <BR>
 ![resim](../screen_shots/HTML-03.jpg) <BR>
-
+**Ödev 1** <BR>
+![resim](../screen_shots/HTML-odev-1.jpg) <BR>
 
