@@ -1,0 +1,47 @@
+.container{
+    width: 1000px;
+    margin: 50px auto 0;
+}
+
+.left-bar{
+    width: 200px;
+    float: left;
+}
+
+.content{
+    width: 800px;
+    float: left;
+}
+
+.card{
+    width: 20%;
+    float: left;
+    padding: 5%;
+    margin-right: 3%;
+    background-color: rgba(15, 90, 210);
+    border-radius: 10px;
+}
+
+.clear{
+    clear: both;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-blue{
+    background-color: blue;
+}
