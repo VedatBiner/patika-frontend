@@ -13,3 +13,8 @@ Bu örnekte farklı ekran boyutlarında değişen başlıklar görünüyor.
 ![resim](../screen_shots/bootstrap-05.jpg) <BR>
 ![resim](../screen_shots/bootstrap-06.jpg) <BR>
 <BR>
+**[Örnek Çalışma 3](/bootstrap/bootstrap2.html)**
+<BR>
+Bu örnekte **[Kodluyoruz](https://kodluyoruz.org)** ana sayfasının bir bölüöünün klonu yapılmaya çalışıldı.
+![resim](../screen_shots/bootstrap-07.jpg) <BR>
+<BR>
