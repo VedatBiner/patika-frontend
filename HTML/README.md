@@ -12,3 +12,5 @@ Contact Page <BR>
 ![resim](../screen_shots/HTML-odev-1.jpg) <BR>
 **Ödev 2** <BR>
 ![resim](../screen_shots/HTML-odev-2.jpg) <BR>
+**Ödev 3** <BR>
+![resim](../screen_shots/HTML-odev-3.jpg) <BR>
