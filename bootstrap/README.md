@@ -47,8 +47,28 @@ Bu örnekte akordiyon şekilinde bir menünü açılınca diğer menülerin kapa
 Bu örnekte alert görünümü gösterildi<BR>
 ![resim](../screen_shots/bootstrap-16.jpg) <BR>
 <BR>
-**[Örnek Çalışma 9](/bootstrap/bootstrap8.html)**
+**[Örnek Çalışma 9](/bootstrap/bootstrap9.html)**
 <BR>
 Bu örnekte badge ve breadcrumb görünümü gösterildi<BR>
 ![resim](../screen_shots/bootstrap-17.jpg) <BR>
+<BR>
+**[Örnek Çalışma 10](/bootstrap/bootstrap10.html)**
+<BR>
+Bu örnekte button, buttongroup ve close button (çalışmadı) görünümü gösterildi<BR>
+![resim](../screen_shots/bootstrap-18.jpg) <BR>
+<BR>
+**[Örnek Çalışma 11](/bootstrap/bootstrap11.html)**
+<BR>
+Bu örnekte collapse, dropdown menu, navbar, pagination görünümü gösterildi<BR>
+![resim](../screen_shots/bootstrap-19.jpg) <BR>
+<BR>
+**[Örnek Çalışma 12](/bootstrap/bootstrap12.html)**
+<BR>
+Bu örnekte popover, progress, spinner, toast görünümü gösterildi<BR>
+![resim](../screen_shots/bootstrap-20.jpg) <BR>
+<BR>
+**[Örnek Çalışma 12](/bootstrap/medium-clone.html)**
+<BR>
+Medium clone çalışması<BR>
+![resim](../screen_shots/bootstrap-xx.jpg) <BR>
 <BR>
