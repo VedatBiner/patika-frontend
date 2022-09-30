@@ -67,7 +67,7 @@ Bu örnekte collapse, dropdown menu, navbar, pagination görünümü gösterildi
 Bu örnekte popover, progress, spinner, toast görünümü gösterildi<BR>
 ![resim](../screen_shots/bootstrap-20.jpg) <BR>
 <BR>
-**[Örnek Çalışma 12](/bootstrap/medium-clone.html)**
+**[Örnek Çalışma 13](/bootstrap/medium-clone.html)**
 <BR>
 Medium clone çalışması<BR>
 ![resim](../screen_shots/bootstrap-xx.jpg) <BR>
