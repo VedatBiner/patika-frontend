@@ -30,3 +30,9 @@ Bu örnekte Normal sayfadaki maddelerin, mobil sayfada ters sıralanması göste
 ![resim](../screen_shots/bootstrap-10.jpg) <BR>
 ![resim](../screen_shots/bootstrap-11.jpg) <BR>
 <BR>
+**[Örnek Çalışma 6](/bootstrap/bootstrap6.html)**
+<BR>
+Bu örnekte Normal sayfadaki maddelerin, mobil sayfada kategori başlığının en alta sıralanması gösterildi<BR>
+![resim](../screen_shots/bootstrap-12.jpg) <BR>
+![resim](../screen_shots/bootstrap-13.jpg) <BR>
+<BR>
