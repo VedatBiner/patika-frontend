@@ -36,3 +36,19 @@ Bu örnekte Normal sayfadaki maddelerin, mobil sayfada kategori başlığının 
 ![resim](../screen_shots/bootstrap-12.jpg) <BR>
 ![resim](../screen_shots/bootstrap-13.jpg) <BR>
 <BR>
+**[Örnek Çalışma 7](/bootstrap/bootstrap7.html)**
+<BR>
+Bu örnekte akordiyon şekilinde bir menünü açılınca diğer menülerin kapatılması gösterildi<BR>
+![resim](../screen_shots/bootstrap-14.jpg) <BR>
+![resim](../screen_shots/bootstrap-15.jpg) <BR>
+<BR>
+**[Örnek Çalışma 8](/bootstrap/bootstrap8.html)**
+<BR>
+Bu örnekte alert görünümü gösterildi<BR>
+![resim](../screen_shots/bootstrap-16.jpg) <BR>
+<BR>
+**[Örnek Çalışma 9](/bootstrap/bootstrap8.html)**
+<BR>
+Bu örnekte badge ve breadcrumb görünümü gösterildi<BR>
+![resim](../screen_shots/bootstrap-17.jpg) <BR>
+<BR>
