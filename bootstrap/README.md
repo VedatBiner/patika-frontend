@@ -20,7 +20,13 @@ Bu örnekte **[Kodluyoruz](https://kodluyoruz.org)** ana sayfasının bir bölü
 <BR>
 **[Örnek Çalışma 4](/bootstrap/bootstrap4.html)**
 <BR>
-Bu örnekte Normal sayfadaki maddelerin, mobil sayfada ters sıralnması gösterildi<BR>
+Bu örnekte Normal sayfadaki maddelerin, mobil sayfada ters sıralanması gösterildi<BR>
 ![resim](../screen_shots/bootstrap-08.jpg) <BR>
 ![resim](../screen_shots/bootstrap-09.jpg) <BR>
+<BR>
+**[Örnek Çalışma 5](/bootstrap/bootstrap5.html)**
+<BR>
+Bu örnekte Normal sayfadaki maddelerin, mobil sayfada ters sıralanması gösterildi<BR>
+![resim](../screen_shots/bootstrap-10.jpg) <BR>
+![resim](../screen_shots/bootstrap-11.jpg) <BR>
 <BR>
