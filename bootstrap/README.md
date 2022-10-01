@@ -70,5 +70,5 @@ Bu örnekte popover, progress, spinner, toast görünümü gösterildi<BR>
 **[Örnek Çalışma 13](/bootstrap/medium-clone.html)**
 <BR>
 Medium clone çalışması<BR>
-![resim](../screen_shots/bootstrap-xx.jpg) <BR>
+![resim](../screen_shots/bootstrap-21-MediumClone.jpg) <BR>
 <BR>
