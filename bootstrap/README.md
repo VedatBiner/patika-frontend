@@ -72,3 +72,8 @@ Bu örnekte popover, progress, spinner, toast görünümü gösterildi<BR>
 Medium clone çalışması<BR>
 ![resim](../screen_shots/bootstrap-21-MediumClone.jpg) <BR>
 <BR>
+**[Ödev 2](/bootstrap/odev2/index.html)**
+<BR>
+Instagram clone çalışması<BR>
+![resim](../screen_shots/bootstrap-22-odev2.jpg) <BR>
+<BR>
