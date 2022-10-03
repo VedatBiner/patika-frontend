@@ -4,5 +4,6 @@ Bu repo içeriğinde **[Patika.dev](https://www.patika.dev/)** FrontEnd eğitimi
 <BR>
 ![resim](../screen_shots/CSS-01.jpg) <BR>
 <BR>
-Ödev-2
+Ödev-2<BR>
+Basit Google Clone<BR>
 ![resim](../screen_shots/CSS-odev-2.jpg) <BR>
