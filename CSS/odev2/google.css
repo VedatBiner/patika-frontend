@@ -1,0 +1,70 @@
+.body {
+    display: block;
+    margin: 8px;
+    background-color: #ffffff;
+}
+
+.Google-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+
+.greybox{
+	width: auto;
+	height: 1auto;
+	background: rgb(235, 235, 235);
+	overflow: visible;
+    padding: 10px;
+}
+
+.greenbox1{
+    width: auto;
+	height: auto;
+	background: #7EE5DA;
+	overflow: visible;
+}
+
+.greenbox2{
+    width: auto;
+	height: 100px;
+	background: #70CCC2;
+	overflow: visible;
+}
+
+.greenbox3{
+    width: 300px;
+	height: 100px;
+	background: #62B3AA;
+	overflow: visible;
+}
+
+.left {
+    position: relative;
+    display: inline-block;
+    margin: 1px 1px 1px;
+    padding: 5px;
+    width: 32%;
+    height: 80px;
+}
+
+.center {
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    padding: 5px;
+    width: 33%;
+    height: 80px;
+}
+
+.right {
+    position: relative;
+    display: inline-block;
+    margin: 1px 1px 1px;
+    padding: 5px;
+    width: 32%;
+    height: 80px;
+}
