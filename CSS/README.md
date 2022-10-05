@@ -7,3 +7,7 @@ Bu repo içeriğinde **[Patika.dev](https://www.patika.dev/)** FrontEnd eğitimi
 Ödev-2<BR>
 Basit Google Clone<BR>
 ![resim](../screen_shots/CSS-odev-2.jpg) <BR>
+<BR>
+Ödev-3<BR>
+Yeni Google Clone<BR>
+![resim](../screen_shots/CSS-odev-3.jpg) <BR>

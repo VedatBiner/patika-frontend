@@ -1,0 +1,86 @@
+.ul.horizontal{
+    margin:0;
+    padding:0;
+}
+
+.ul.horizontal li{
+    display:block;
+    float:left;
+    padding:0 10px;
+}
+
+img {
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 500px; /* Set a small width */
+    margin-left: 4%; 
+    margin-right: 4%;
+}
+  
+img:hover {
+    box-shadow: 0 0 5px 5px rgba(250, 19, 3, 0.979);
+}
+
+.about-image {
+    border: 2px solid #ddd; 
+    border-radius: 5px;  
+    padding: 5px; 
+    width: 25%; 
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 grey;
+    background-color:white;
+    transition: 0.2s;
+    width:600px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+  
+.card:hover {
+    box-shadow: 5px 10px 10px 5px rgba(68, 245, 142, 0.616);
+    background-color: rgba(247, 239, 169, 0.966);
+}
+
+.font-DancingScript {
+  font-family: 'Dancing Script', cursive;
+  font-size:54px;
+  color: yellow;
+}
+
+.font-Orbitron{
+  font-family: 'Orbitron', sans-serif;
+  margin-top: 5px;
+  margin-left: 24px;
+  color:crimson;
+}
+
+.content{
+  width: 800px;
+  float: left;
+}
+
+body {
+  background-color: black;
+}
+
+.font-nav{
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-left: 18px;
+  color:white;
+}
+
+.font-info {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 5px;
+  margin-left: 10px;
+  color:navy;
+}
