@@ -74,6 +74,12 @@ Medium clone çalışması<BR>
 <BR>
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
+**[Ödev 1](/bootstrap/odev1/index.html)**
+<BR>
+Instagram clone çalışması<BR>
+![resim](../screen_shots/bootstrap-23-odev1.jpg) <BR>
+<BR>
+
 **[Ödev 2](/bootstrap/odev2/index.html)**
 <BR>
 Instagram clone çalışması<BR>
