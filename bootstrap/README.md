@@ -76,7 +76,7 @@ Medium clone çalışması<BR>
 
 **[Ödev 1](/bootstrap/odev1/index.html)**
 <BR>
-Örenk fotoğraf sitesi çalışması<BR>
+Örnek fotoğraf sitesi çalışması<BR>
 ![resim](../screen_shots/bootstrap-23-odev1.jpg) <BR>
 ![resim](../screen_shots/bootstrap-24-odev1.jpg) <BR>
 ![resim](../screen_shots/bootstrap-24-odev1.jpg) <BR>
